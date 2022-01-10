@@ -1,0 +1,16 @@
+Auton koko 
+tehokkuus 
+renkaiden koko
+auton väri 
+valojen voimakkuus
+ilman kierto
+vaihteet
+ratti
+renkaiden pito
+renkaiden määrä
+mootorin tilavuus
+tankin tilavuus
+akun koko
+ikkunat
+ikkunoiden koko
+peilien sijainnit
