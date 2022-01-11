@@ -14,3 +14,4 @@ akun koko
 ikkunat
 ikkunoiden koko
 peilien sijainnit
+...D
